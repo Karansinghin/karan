@@ -1,0 +1,1 @@
+This portfolio is simple, but as my first project, I believe it’s quite good. It showcases my initial steps into web development and reflects the skills I’ve acquired so far. While it may not be the most complex, I am proud of the effort and dedication I put into creating it. I look forward to improving and adding more advanced projects in the future.
